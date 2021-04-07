@@ -14,6 +14,8 @@ public class URI1008 {
         System.out.println("NUMBER = "+ NUMBER);
         System.out.printf("SALARY = U$ %.2f", SALARY);
         System.out.println();
+        
+        leitor.close();
 
 	}
 
